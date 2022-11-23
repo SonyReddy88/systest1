@@ -15,9 +15,4 @@ describe ("check that jest is working",()=>{
    });
 });
 
-// // Test 2
-// describe ("tests function numToRoman",()=>{
-//   test("that 1 is I in Roman Numerals",() => {
-//     expect(numToRomann("1")).toBe("I");
-//    });
-// });
+
